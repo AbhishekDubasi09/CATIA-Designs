@@ -1,5 +1,21 @@
-Author - Abhishek Dubasi
-<br>
-This is my Design files repo
-# CATIA-Designs
-A growing collection of complex, industry-grade mechanical components - modeled with precision in CATIA. From engine housings to structural casings, every design reflects the raw geometry of real-world machines. Built to showcase manufacturing-aware modelling, geometric constraints, and part-assembly thinking.
+# CATIA V5 Design Models
+
+This repository showcases a collection of mechanical part and assembly designs created using CATIA V5. Each model emphasizes industrial design standards, dimensional accuracy, and manufacturability.
+
+## Included Designs
+
+- Parametric part models (Sketch-Based and Boolean-Based)
+- Complex assemblies with constraint systems
+- Drafting sheets with technical dimensions
+
+## Highlights
+
+- Fully constrained 3D parts and assemblies
+- Focus on design intent and feature-based modeling
+- Ready for conversion to manufacturing drawings
+
+## Author
+
+**Abhishek Dubasi**  
+[LinkedIn Profile](https://www.linkedin.com/in/abhishek-dubasi)  
+[Abhishek_GitHub_Projects](https://github.com/AbhishekDubasi09)
