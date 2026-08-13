@@ -19,3 +19,7 @@ This repository showcases a collection of mechanical part and assembly designs c
 **Abhishek Dubasi**  
 [LinkedIn Profile](https://www.linkedin.com/in/abhishek-dubasi)  
 [Abhishek_GitHub_Projects](https://github.com/AbhishekDubasi09)
+
+## License
+
+Licensed under the [MIT License](LICENSE).
